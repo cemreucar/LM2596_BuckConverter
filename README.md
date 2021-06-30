@@ -1,7 +1,7 @@
 # LM2596_BuckConverter
 
 
-In this project I designed a LM2596 Buck Converter using Altium Designer.
+In this project, I designed a LM2596 Buck Converter using Altium Designer.
 
 Here some previews of the project:
 
